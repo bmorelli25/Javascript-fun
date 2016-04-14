@@ -1,0 +1,22 @@
+{
+  "name": "quadsolver",
+  "version": "1.0.0",
+  "description": "A simple quadratic solver",
+  "main": "solve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmorelli25/Javascript-fun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmorelli25/Javascript-fun/issues"
+  },
+  "homepage": "https://github.com/bmorelli25/Javascript-fun#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
